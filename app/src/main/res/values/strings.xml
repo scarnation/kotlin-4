@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="linkdin">linkdin</string>
+    <string name="googlep">googlep</string>
+    <string name="play">play</string>
+    <string name="insta">insta</string>
+    <string name="google">google</string>
+    <string name="gmail">gmail</string>
+    <string name="fabebook">fabebook</string>
+    <string name="androi">androi</string>
+    <string name="dribble">dribble</string>
+    <string name="bitbucket">bitbucket</string>
+    <string name="github">github</string>
+    <string name="iconic">iconic</string>
+    <string name="background">background</string>
+    <string name="mobile_developer">mobile_developer</string>
+    <string name="welcome">welcome</string>
+    <string name="string_welcome" />
+    <string name="nnadiukwu_chidiebere_oscar">nnadiukwu_chidiebere_oscar</string>
+    <string name="scar">scar</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="textview">textview</string>
+    <string name="skype">skype</string>
+    <string name="slack">slack</string>
+    <string name="twitter">twitter</string>
+    <string name="webview">webview</string>
+    <string name="good">good</string>
+    <string name="username">username</string>
+    <string name="login">login</string>
+    <string name="passwords">passwords</string>
+</resources>

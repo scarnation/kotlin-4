@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="slack" type="id">joe</item>
+    <item name="imageButton" type="id">as</item>
+    <item name="relativeLayout" type="id">aq</item>
+    <item name="facebook" type="id">aw</item>
+    <item name="imageButton2" type="id">ae</item>
+    <item name="gmail" type="id">ar</item>
+    <item name="googleplus" type="id">at</item>
+    <item name="android" type="id">ay</item>
+    <item name="play" type="id">au</item>
+    <item name="imageButton8" type="id">ai</item>
+    <item name="google" type="id">ao</item>
+    <item name="drible" type="id">ap</item>
+    <item name="link" type="id">aa</item>
+    <item name="twitter" type="id">af</item>
+    <item name="skype" type="id">ag</item>
+    <item name="webview" type="id">ah</item>
+    <item name="gridLayout" type="id">todo</item>
+    <item name="mypic" type="id">aj</item>
+    <item name="textView" type="id">ak</item>
+    <item name="textView2" type="id">al</item>
+    <item name="textView3" type="id">az</item>
+</resources>
